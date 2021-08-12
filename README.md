@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @carlosk91
-- 👀 I’m interested in Videogames, Analytics, Data Science, and Finance
+- 👀 I’m interested in Music, Videogames, Analytics, Data Science, and Finance
 - 🌱 I’m currently learning Videogame development, Data Science, and Trading
 - 💞️ I’m looking to collaborate on Videogame and Data science projects
 - 📫 How to reach me https://www.linkedin.com/in/carlosk91/
