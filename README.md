@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlosk91
 - 👀 I’m interested in Music, Video Games, Data Science, and Finance
 - 🌱 I’m currently learning AI Engineering
-- 💞️ I’m looking to collaborate on Videogame and Data science projects
+- 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me https://www.linkedin.com/in/carloskellyai
 
 <!---
